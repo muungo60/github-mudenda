@@ -1,2 +1,2 @@
 # github-mudenda
-This repository contains code ideas.
+This repository contains coding projects and ideas.
